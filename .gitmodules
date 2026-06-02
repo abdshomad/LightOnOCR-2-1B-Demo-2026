@@ -1,0 +1,6 @@
+[submodule "LightOnOCR-2-1B-Demo"]
+	path = LightOnOCR-2-1B-Demo
+	url = https://huggingface.co/spaces/lightonai/LightOnOCR-2-1B-Demo
+[submodule "paddle-ocr-1-6-demo"]
+	path = paddle-ocr-1-6-demo
+	url = https://github.com/abdshomad/paddle-ocr-1-6-demo.git

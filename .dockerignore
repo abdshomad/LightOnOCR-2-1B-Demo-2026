@@ -1,0 +1,14 @@
+.venv
+.git
+.gitignore
+.gitmodules
+node_modules
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+screenshots
+/issues
+/screenshots
+/paddle-ocr-1-6-demo

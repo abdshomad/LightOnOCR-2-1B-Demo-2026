@@ -1,0 +1,16 @@
+[project]
+name = "lightonocr-2-1b-demo"
+version = "0.1.0"
+description = "LightOnOCR-2-1B Demo"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.0.0",
+    "transformers @ git+https://github.com/huggingface/transformers.git",
+    "gradio>=5.0.0",
+    "pillow>=11.0.0",
+    "pypdfium2>=4.0.0",
+    "spaces>=0.20",
+    "openai",
+]
+

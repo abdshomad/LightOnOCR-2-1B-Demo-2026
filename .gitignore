@@ -1,0 +1,7 @@
+.env
+.venv/*
+.antigravitycli/*
+__pycache__
+*.pyc
+scratch/*
+screenshots/**/*
